@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mousie1031", "Mousie1031\Mousie1031.csproj", "{45ADAA10-3AEE-4DFD-A390-A13D3317EB63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mousie1031.Tests", "Mousie1031.Tests\Mousie1031.Tests.csproj", "{A5F37E9E-A291-4100-ABA4-DB30F5ABF4C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45ADAA10-3AEE-4DFD-A390-A13D3317EB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45ADAA10-3AEE-4DFD-A390-A13D3317EB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45ADAA10-3AEE-4DFD-A390-A13D3317EB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45ADAA10-3AEE-4DFD-A390-A13D3317EB63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F37E9E-A291-4100-ABA4-DB30F5ABF4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F37E9E-A291-4100-ABA4-DB30F5ABF4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F37E9E-A291-4100-ABA4-DB30F5ABF4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F37E9E-A291-4100-ABA4-DB30F5ABF4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {091F79ED-7629-4BBB-A189-7B199DF09EA9}
+	EndGlobalSection
+EndGlobal
